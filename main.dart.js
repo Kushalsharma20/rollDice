@@ -54245,7 +54245,7 @@ A.G1.prototype={
 xL(){this.d=B.hs.Ep(6)+1
 this.e=B.hs.Ep(6)+1},
 P(a){var s=this,r=null,q="images/dice-six-faces-",p=A.tf(r,r,r,r,r,r,r,r,"Pacifico",r,r,r,r,r,B.bd,r,r,!0,r,r,r,r,r,r,r,r),o=t.nA
-return new A.qi(new A.rw(new A.oo(new A.t4("Roll",r,p,r,r),new A.GZ(r,r,1/0,56),r),A.ad0(A.b([A.Lu(A.a6O(A.b([A.a5t(A.a7l(A.M2(r,A.a5L(q+s.d+".png"),r,r,r,r,r,r),new A.Za(s))),A.a5t(A.a7l(A.M2(r,A.a5L(q+s.e+".png"),r,r,r,r,r,r),new A.Zb(s)))],o),B.eb,B.eV),r,r)],o),B.Az),B.B2,r),r)}}
+return new A.qi(new A.rw(new A.oo(new A.t4("Roll The Dice",r,p,r,r),new A.GZ(r,r,1/0,56),r),A.ad0(A.b([A.Lu(A.a6O(A.b([A.a5t(A.a7l(A.M2(r,A.a5L(q+s.d+".png"),r,r,r,r,r,r),new A.Za(s))),A.a5t(A.a7l(A.M2(r,A.a5L(q+s.e+".png"),r,r,r,r,r,r),new A.Zb(s)))],o),B.eb,B.eV),r,r)],o),B.Az),B.B2,r),r)}}
 A.Za.prototype={
 $0(){var s=this.a
 s.au(new A.Z9(s))},
